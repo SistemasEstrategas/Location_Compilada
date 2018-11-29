@@ -1,0 +1,10 @@
+﻿/*!
+ * This file is part of App Builder
+ *
+ * ©2018 App Builder - https://www.davidesperalta.com
+ *//* Código CSS auto generado para la app */
+html, body { width: 320px; height: 480px; }
+#Button1 { position: absolute; top: 5.00%; left: 17.50%; width: 62.50%; height: 8.33%; }
+#LatitudeInput { position: absolute; top: 16.67%; left: 17.50%; width: 62.50%; height: 8.33%; }
+#LongitudeInput { position: absolute; top: 26.67%; left: 17.50%; width: 62.50%; height: 8.33%; }
+#MapsIFrame { position: absolute; top: 38.33%; left: 5.00%; width: 90.00%; height: 56.67%; }

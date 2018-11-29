@@ -1,0 +1,19 @@
+{
+  "name": "com.appbuilder.location",
+  "version": "1.0.0",
+  "displayName": "Location (Creada con una versión sin registrar de App Builder de DecSoft)",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-geolocation": {},
+      "cordova-plugin-dialogs": {},
+      "cordova-plugin-splashscreen": {}
+    }
+  },
+  "dependencies": {
+    "cordova-android": "^7.1.1"
+  }
+}
